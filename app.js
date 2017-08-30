@@ -1,8 +1,6 @@
 /*
 IIFE - Immediately Invoked Function Expression
 Encapsulate initialization of application.
-TEST
-TEST
 */
 
 (function(){
